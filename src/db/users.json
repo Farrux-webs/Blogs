@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "username": "Farrux",
+        "password": "$2b$12$ItmaKh1sNJBa00OzSom21.X7l9xmUeIZRq959dafNARuz3wjsLVQi",
+        "image": "Screenshot 2023-03-01 202643.png",
+        "isDeleted": false
+    },
+    {
+        "id": 2,
+        "username": "asdcadasd",
+        "password": "$2b$12$rFfR1iOOXIuNhHYXZK6VYuriyxNEfukqJSA.pX6Cad4eTrL/778Cq",
+        "image": "C:\\Users\\acer\\Desktop\\exam7\"upload\"Screenshot 2023-03-02 223925.png.png",
+        "isDeleted": false
+    },
+    {
+        "id": 3,
+        "username": "asdscacasd",
+        "password": "$2b$12$GyB4CtXEh.mQNP8hwFhqseHZQAm9bsmavxQAhUSU35pTRXZb71Jru",
+        "image": "C:\\Users\\acer\\Desktop\\exam7\"upload\"Screenshot 2023-03-02 223925.png.png",
+        "isDeleted": false
+    },
+    {
+        "id": 4,
+        "username": "dasdasd",
+        "password": "$2b$12$HTSvmqucKDkLLKP8EAox3OgDDp9tanZIbjH5Mfx3VW7fbFmmyZmGu",
+        "image": "C:\\Users\\acer\\Desktop\\exam7\"uploads\"Screenshot 2023-03-01 202643.png.png",
+        "isDeleted": false
+    },
+    {
+        "id": 5,
+        "username": "scfafwqefv",
+        "password": "$2b$12$Y7D7uZQqKl78dmfXCp3Wxe4UnnlBEr6lVdJNE5f3iUmdjf9dPjlva",
+        "image": "C:\\Users\\acer\\Desktop\\exam7\"uploads\"Screenshot 2023-03-02 200657.png.png",
+        "isDeleted": false
+    },
+    {
+        "id": 6,
+        "name": "wcwefwevwev",
+        "username": "sdvsadvsadv",
+        "password": "$2b$12$ejgmWh2ldzvhPpYt6D7nnOpjid2Ar73G15prHBh/P6rJw8xHzMMeO",
+        "image": "C:\\Users\\acer\\Desktop\\exam7\"uploads\"Screenshot 2023-03-01 202643.png.png",
+        "isDeleted": false
+    },
+    {
+        "id": 7,
+        "name": "efwefwef",
+        "username": "wefwefwef",
+        "password": "$2b$12$DHw3x5.98XO6O7fjpFTeKuZ84agmgiZdBOSZySF1TWF4EQW2Wp77W",
+        "image": "C:\\Users\\acer\\Desktop\\exam7uploadsScreenshot 2023-03-02 203210.png.png",
+        "isDeleted": false
+    },
+    {
+        "id": 8,
+        "name": "fsd",
+        "username": "dfs",
+        "password": "$2b$12$MLTHw33.UNRZTpCZI28tP.AW6du3eWOeZLCBpWQ2AZwVRoYL/LtKy",
+        "image": "C:\\Users\\acer\\Desktop\\exam7uploadsScreenshot 2023-03-02 212911.png.png",
+        "isDeleted": false
+    },
+    {
+        "id": 9,
+        "name": "wfqfqwf",
+        "username": "fqwfqwf",
+        "password": "$2b$12$UNn0A/gkK.Yvg8n7o3RzsemRNwAoyJ/ltfJAgHl1.i9VyDlaudSVG",
+        "image": "C:\\Users\\acer\\Desktop\\exam7uploadsScreenshot 2023-03-08 234246.png.png",
+        "isDeleted": false
+    },
+    {
+        "id": 10,
+        "name": "Naruto",
+        "username": "Naruto",
+        "password": "$2b$12$v8jm6UkyaVJX9GnAxgGc4.hTW06mzH908npqI.3Jm7w7YtoRyKO3e",
+        "image": "C:\\Users\\acer\\Desktop\\exam7uploadsScreenshot_20221217_081748.png.png",
+        "isDeleted": false
+    }
+]
