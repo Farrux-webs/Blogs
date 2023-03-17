@@ -1,6 +1,8 @@
 const Io = require("../utils/Io");
 const Users = new Io("./src/db/users.json");
 const User = require("../models/user");
+const Histories = new Io("./src/db/history.json");
+const History = require("../models/history");
 const Joi = require("joi");
 const bcrypt = require("bcrypt");
 const jwt = require("../utils/jwt");

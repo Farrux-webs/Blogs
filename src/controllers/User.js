@@ -18,6 +18,7 @@ const UserGet = async(req, res)=>{
     }
 }
 
+
 // const UserPost = async(req, res)=>{
 //     try {
 //         const { username, password} = req.body;
@@ -61,4 +62,4 @@ const UserGet = async(req, res)=>{
 
 
 
-module.exports = { UserGet };
+module.exports = { UserGet, };
