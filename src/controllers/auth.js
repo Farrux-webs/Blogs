@@ -10,7 +10,6 @@ const cookie = require("cookie-parser");
 
 const { v4: uuid } = require("uuid");
 
-
 const authRegister = async (req, res) => {
   try {
     const { username, password, name } = req.body;
@@ -18,13 +17,13 @@ const authRegister = async (req, res) => {
     console.log(req.files);
     console.log(username, password);
     const users = await Users.read();
-      const format = image.mimetype.split("/")[1];
-      const path = process.cwd() +  "/src/uploads/" + uuid() + `.${format}`;
+    const format = image.mimetype.split("/")[1];
+    const path = process.cwd() + "/src/uploads/" + uuid() + `.${format}`;
     const usersCount = (users[users.length - 1]?.id || 0) + 1;
 
-    const ImageLink = process.cwd() + "uploads" + `${image.name}` + `.${format}`;
+    const ImageLink = process.cwd() + "/src/uploads/" + `${image.name}` + `.${format}`;
     console.log(ImageLink);
- 
+
     const hashedPass = await bcrypt.hash(password, 12);
 
     const scheme = Joi.object({
